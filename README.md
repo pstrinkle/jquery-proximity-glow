@@ -1,6 +1,9 @@
 # jquery-proximity-glow
 jQuery plugin that allows elements to glow more or less based on mouse proximity.
 
+[![Latest release](https://img.shields.io/github/release/pstrinkle/jquery-proximity-glow.svg)](https://github.com/pstrinkle/jquery-proximity-glow/releases/latest)
+[![npm](https://img.shields.io/npm/v/jquery-proximity-glow.svg)](https://www.npmjs.com/package/jquery-proximity-glow)
+
 Plans
 -----
 
