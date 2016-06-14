@@ -1,0 +1,26 @@
+{
+  "name": "jquery-proximity-glow",
+  "version": "1.0.0",
+  "description": "jQuery plugin that allows elements to glow more or less based on mouse proximity.",
+  "main": "dist/jquery-proximity-glow.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "jquery": ">=1.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pstrinkle/jquery-proximity-glow.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "animation"
+  ],
+  "author": "Patrick Trinkle",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pstrinkle/jquery-proximity-glow/issues"
+  },
+  "homepage": "https://pstrinkle.github.com/jquery-proximity-glow"
+}
